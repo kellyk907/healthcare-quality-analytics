@@ -1,7 +1,7 @@
 # HEDIS / Stars Quality Analytics (Sample Project — Synthetic Data)
 
 **Quick view (non-technical):**
-- 📄 **One-page overview:** `docs/HEDIS_Stars_OnePager.pdf`
+- 📄 **One-page overview:** `docs/HCQanalyticsWriteUPSQL.pdf`
 - 🖼️ **Mini-deck (6–7 slides):** `docs/HEDIS_Stars_MiniDeck.pdf`
 
 ## What this demonstrates
