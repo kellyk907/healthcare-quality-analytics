@@ -2,7 +2,7 @@
 
 **Quick view (non-technical):**
 - 📄 **One-page overview:** `docs/HCQanalyticsWriteUPSQL.pdf`
-- 🖼️ **Mini-deck (6–7 slides):** `docs/HEDIS_Stars_MiniDeck.pdf`
+
 
 ## What this demonstrates
 End-to-end, publication-safe healthcare quality analytics using **synthetic data**:
